@@ -38,6 +38,6 @@
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anubhav-18&show_icons=true&theme=tokyonight) -->
 
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anubhav-18&show_icons=true&locale=en&layout=compact" alt="anubhav-18" /></p> 
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anubhav-18&show_icons=true&locale=en&layout=compact" alt="anubhav-18" /></p> -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anubhav-18&theme=transparent) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anubhav-18&theme=transparent) -->
