@@ -1,32 +1,42 @@
 <h1 align="center">Hi 👋, I'm Anubhav Bindal</h1>
-<h3 align="center">I am an Android Flutter developer with a passion for building innovative mobile applications. Below, you'll find a collection of my projects, each highlighting my skills and dedication to creating quality software. Feel free to explore and reach out if you have any questions or would like to collaborate.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhav-18&label=Profile%20views&color=0e75b6&style=flat" alt="anubhav-18" /> </p>
 
-- 🔭 I’m currently working on [E-Commerce(Harvest)](https://github.com/anubhav-18/Harvest)
+<p align = "left">
+🎓 3rd-year Computer Science Engineering student | 📚 Aspiring Android Developer
 
-- 🌱 I’m currently learning **NodeJs**
+🚀 Learning Android app development with Flutter and Firebase
 
-- 👯 Project-2 [Frontend of Online Grocery Shop](https://github.com/anubhav-18/PROGRAM/tree/master/Flutter/food_delivering_app)
+💡 Passionate about creating elegant mobile experiences
 
-- 🤝 Project-3 **Supermarket Billing Project using C++**
+🌟 Enthusiastic about competitive coding in C++ for problem-solving</p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/anubhav-18/](https://github.com/anubhav-18/)
+<!-- <h3 align="center">I am an Android Flutter developer with a passion for building innovative mobile applications. Below, you'll find a collection of my projects, each highlighting my skills and dedication to creating quality software. Feel free to explore and reach out if you have any questions or would like to collaborate.</h3> -->
 
-- 💬 Ask me about - 
-  - 📱 Flutter app development
-  - 💡 UI/UX design for mobile apps
-  - 🌐 Firebase integration
-  - 🤔 Problem-solving Skill
-  - 🚀 Building responsive and visually appealing UI
-  - 📊 Data visualization in mobile apps
-  - 📚 Learning resources for Flutter development
+🔭 I’m currently working on [E-Commerce(Harvest)](https://github.com/anubhav-18/Harvest)
 
-- 📫 How to reach me **anubhavbindal16@gmail.com**
+🌱 I’m currently learning **NodeJs**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dt4NElbYI6GTxwRkttxU8rZfC9Zjo3zH/view?usp=sharing](https://drive.google.com/file/d/1dt4NElbYI6GTxwRkttxU8rZfC9Zjo3zH/view?usp=sharing)
+👯 Project-2 [Frontend of Online Grocery Shop](https://github.com/anubhav-18/PROGRAM/tree/master/Flutter/food_delivering_app)
 
-- ⚡ Fun fact - **I'm not just a Flutter developer; I'm also a dedicated gamer! When I'm not coding, you can often find me immersed in the virtual worlds of video games. From intense multiplayer battles to exploring vast open worlds, gaming has always been a passion of mine.**
+🤝 Project-3 **Supermarket Billing Project using C++**
+
+👨‍💻 All of my projects are available at [https://github.com/anubhav-18/](https://github.com/anubhav-18/)
+
+💬 Ask me about - 
+ - 📱 Flutter app development
+ - 💡 UI/UX design for mobile apps
+ - 🌐 Firebase integration
+ - 🤔 Problem-solving Skill
+ - 🚀 Building responsive and visually appealing UI
+ - 📊 Data visualization in mobile apps
+ - 📚 Learning resources for Flutter development
+
+📫 How to reach me **anubhavbindal16@gmail.com**
+
+📄 Know about my experiences [https://drive.google.com/file/d/1dt4NElbYI6GTxwRkttxU8rZfC9Zjo3zH/view?usp=sharing](https://drive.google.com/file/d/1dt4NElbYI6GTxwRkttxU8rZfC9Zjo3zH/view?usp=sharing)
+
+⚡ Fun fact - **I'm not just a Flutter developer; I'm also a dedicated gamer! When I'm not coding, you can often find me immersed in the virtual worlds of video games. From intense multiplayer battles to exploring vast open worlds, gaming has always been a passion of mine.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
