@@ -34,7 +34,7 @@
 
 📫 How to reach me **anubhavbindal16@gmail.com**
 
-📄 Know about my experiences [https://drive.google.com/file/d/1dt4NElbYI6GTxwRkttxU8rZfC9Zjo3zH/view?usp=sharing](https://drive.google.com/file/d/1dt4NElbYI6GTxwRkttxU8rZfC9Zjo3zH/view?usp=sharing)
+📄 Know about my experiences [https://drive.google.com/file/d/1dt4NElbYI6GTxwRkttxU8rZfC9Zjo3zH/view?usp=sharing](https://drive.google.com/file/d/1Inz8zg_Z5KjLcjd9nSWzVA4ulmqdObIk/view?usp=sharing)
 
 ⚡ Fun fact - **I'm not just a Flutter developer; I'm also a dedicated gamer! When I'm not coding, you can often find me immersed in the virtual worlds of video games. From intense multiplayer battles to exploring vast open worlds, gaming has always been a passion of mine.**
 
