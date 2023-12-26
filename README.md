@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhav-18&label=Profile%20views&color=0e75b6&style=flat" alt="anubhav-18" /> </p>
 
 <p align = "left">
-🎓 3rd-year Computer Science Engineering student | 📚 Aspiring Android Developer
+🎓 3rd-year Computer Science Engineering student 
 
 🚀 Learning Android app development with Flutter and Firebase
 
