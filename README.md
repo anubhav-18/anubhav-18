@@ -21,7 +21,7 @@
 
 🤝 Project-3 **Supermarket Billing Project using C++**
 
-🌱 Project-4 **Event Management App**
+🌱 Project-4 **E-Commerece App 'Harvest'**
 
 👨‍💻 All of my projects are available at [https://github.com/anubhav-18/](https://github.com/anubhav-18/)
 
