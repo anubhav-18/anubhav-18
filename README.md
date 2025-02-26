@@ -23,8 +23,6 @@
 
 🌱 Project-4 **E-Commerece App 'Harvest'**
 
-👨‍💻 All of my projects are available at [https://github.com/anubhav-18/](https://github.com/anubhav-18/)
-
 💬 Ask me about - 
  - 📱 Flutter app development
  - 💡 UI/UX design for mobile apps
